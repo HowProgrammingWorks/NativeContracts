@@ -14,7 +14,7 @@ const iterable = {
       },
 
       throw(error) {
-        console.log('threows: ', error.message);
+        console.log('throws: ', error.message);
         return DONE;
       },
 
