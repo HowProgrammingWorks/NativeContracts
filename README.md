@@ -22,7 +22,7 @@
   - Examples: [7-generator.js](https://github.com/HowProgrammingWorks/NativeContracts/tree/main/JavaScript/7-generator.js), [Generator](https://github.com/HowProgrammingWorks/Generator), [AsyncGenerator](https://github.com/HowProgrammingWorks/AsyncGenerator)
 - **Array-like** — Object with indexed keys `0`, `1`, ... and numeric `.length`, but no array methods
   - Examples: [8-array-like.js](https://github.com/HowProgrammingWorks/NativeContracts/tree/main/JavaScript/8-array-like.js)
-- **Observable** — Push-based data sours available for subscription
+- **Observable** — Push-based data source available for subscription
   - Examples: [9-observable.js](https://github.com/HowProgrammingWorks/NativeContracts/tree/main/JavaScript/9-observable.js), [Events](https://github.com/HowProgrammingWorks/Events), [Observer](https://github.com/HowProgrammingWorks/Observer)
 - **EventTarget** — DOM standard interface with `.addEventListener(event, handler)`
 - **EventEmitter** — Node.js style event emitter with `.on(event, handler)` and `.emit(event, ...args)`
