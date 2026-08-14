@@ -1,6 +1,6 @@
 'use strict';
 
-const { Worker, workerData, isMainThread } = require('worker_threads');
+const { Worker, workerData, isMainThread } = require('node:worker_threads');
 
 if (isMainThread) {
   const workerData = new ArrayBuffer(8);
